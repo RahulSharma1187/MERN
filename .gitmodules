@@ -1,3 +1,2 @@
 [submodule "client"]
-	path = ./client
-	url = ./client
+	ignore = untracked
