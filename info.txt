@@ -1,0 +1,17 @@
+project run :-
+open visual studio and terminal divide 2 colomn after that 
+open client folder in left side > command yarn start
+and open server folder in right side > command nodemon app.js
+
+in server folder:
+db > connenction.js 
+middleware > authenticate.js > 
+model > userSchema (define schema)
+router > auth.js (post, get, login, logout, authenticate)
+
+project req:
+mongodb Atlas for database
+https://cloud.mongodb.com/
+
+youtube Link:-
+https://www.youtube.com/watch?v=fSmp7Cv-c_0&list=PLwGdqUZWnOp3t3qT7pvAznwUDzKbhEcCc&index=1
